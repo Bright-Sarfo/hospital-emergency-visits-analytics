@@ -6,7 +6,7 @@ Domain: Healthcare Operations
 Tool: Power BI
 
 This project analyses **19 months of emergency department visit data** to identify **demand patterns and operational pressure points**, supporting **efficient staffing and resource allocation decisions**.
-
+<img width="1367" height="855" alt="Dashboard pic" src="https://github.com/user-attachments/assets/e151a879-e8ec-46ef-a73c-9d29cfc31c38" />
 
 # 🎯 Business Problem
 Emergency departments face unpredictable demand, leading to overcrowding, long wait times, staff burnout, and reduced patient satisfaction.
@@ -57,3 +57,4 @@ Emergency departments face unpredictable demand, leading to overcrowding, long w
 - Time-series analysis
 - Power BI dashboard design
 - Executive storytelling
+
