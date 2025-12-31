@@ -1,12 +1,16 @@
 # hospital-emergency-visits-analytics
 
 # 📌 Project Overview
-## Emergency Department Visit Analytics for Resource Allocation
+## [Emergency Department Visit Analytics for Resource Allocation](https://brightsarfo.carrd.co/#healthcareproject)
 Domain: Healthcare Operations
+
 Tool: Power BI
 
 This project analyses **19 months of emergency department visit data** to identify **demand patterns and operational pressure points**, supporting **efficient staffing and resource allocation decisions**.
+
 <img width="1367" height="855" alt="Dashboard pic" src="https://github.com/user-attachments/assets/e151a879-e8ec-46ef-a73c-9d29cfc31c38" />
+
+#### [Access the Interactive Dashboard Here 👈](https://app.powerbi.com/view?r=eyJrIjoiY2ExZjllNjktY2U0ZS00NjQ1LTgxYTktZmEwYTFjZTQ4YTUzIiwidCI6IjQ3ZThiNGFiLTEwOTMtNDVmNi1hOWRjLTM3NWFiOGY0NmJjMiJ9&pageName=985a516fa030daba9a9e)
 
 # 🎯 Business Problem
 Emergency departments face unpredictable demand, leading to overcrowding, long wait times, staff burnout, and reduced patient satisfaction.
